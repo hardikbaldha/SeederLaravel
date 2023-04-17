@@ -13,9 +13,14 @@ create .env for database connection
 
 run seeder
 ```bash
-php artisan serve
+php artisan db:seed
+```
 
+```bash
+php artisan serve
+```
 start server and run project 
 
 ```bash
 php artisan serve
+```
