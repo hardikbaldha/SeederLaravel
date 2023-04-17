@@ -15,10 +15,6 @@ run seeder
 ```bash
 php artisan db:seed
 ```
-
-```bash
-php artisan serve
-```
 start server and run project 
 
 ```bash
